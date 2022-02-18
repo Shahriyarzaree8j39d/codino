@@ -1,8 +1,74 @@
 [
   {
-    "title": "codino",
+    "title": "کانال کدینو",
     "description": "کانال کدینو در روبیکا و اپارات ",
     "link_txt": "بازکردن",
-    "url": "https://rubika.ir/codino_sketch"
+    "url": "https://rubika.ir/codino_sketch",
+    "dialog_txt": "پیام",
+    "dialog_description": "از شما ممنونیم که از کانال روبیکایی کدینو حمایت میکنید \n\nکانال ما رو حتما دنبال کنید ",
+    "codino": "بازکن"
+  },
+  {
+    "title": "وب سایت کدینو",
+    "description": "کانال کدینو در روبیکا ",
+    "link_txt": "بازکردن",
+    "url": "https://rubika.ir/codino_sketch",
+    "dialog_txt": "codino",
+    "dialog_description": "از شما ممنونیم که از کانال روبیکایی کدینو حمایت میکنید",
+    "codino": "بازکن"
+  },
+  {
+    "title": "کانال کدینو",
+    "description": "کانال کدینو در روبیکا و اپارات ",
+    "link_txt": "بازکردن",
+    "url": "https://rubika.ir/TaRAp_mObILe",
+    "dialog_txt": "پیام",
+    "dialog_description": "\nکانال ما رو حتما دنبال کنید ",
+    "codino": "بازکن"
+  },
+  {
+    "title": "کانال codino",
+    "description": "کانال کدینو در روبیکا و اپارات ",
+    "link_txt": "بازکردن",
+    "url": "https://rubika.ir/codino_sketch",
+    "dialog_txt": "پیام",
+    "dialog_description": "از شما ممنونیم که از کانال روبیکایی کدینو حمایت میکنید \n\nکانال ما رو حتما دنبال کنید ",
+    "codino": "بازکن"
+  },
+  {
+    "title": "کانال کدینو",
+    "description": "کانال کدینو در روبیکا و اپارات ",
+    "link_txt": "بازکردن",
+    "url": "https://rubika.ir/codino_sketch",
+    "dialog_txt": "پیام",
+    "dialog_description": "از شما ممنونیم که از کانال روبیکایی کدینو حمایت میکنید \n\nکانال ما رو حتما دنبال کنید ",
+    "codino": "بازکن"
+  },
+  {
+    "title": "کانال کدینو",
+    "description": "کانال کدینو در روبیکا و اپارات ",
+    "link_txt": "بازکردن",
+    "url": "https://rubika.ir/member_three",
+    "dialog_txt": "پیام",
+    "dialog_description": "از شما ممنونیم حمایت میکنید\n\nکانال ما رو حتما دنبال کنید ",
+    "codino": "بازکن"
+  },
+  {
+    "title": "کانال کدینو",
+    "description": "کانال کدینو در روبیکا و اپارات ",
+    "link_txt": "بازکردن",
+    "url": "https://rubika.ir/codino_sketch",
+    "dialog_txt": "پیام",
+    "dialog_description": "کانال روبیکایی کدینو حمایت کنید \n\nکانال ما رو حتما دنبال کنید ",
+    "codino": "بازکن"
+  },
+  {
+    "title": "کانال کدینو",
+    "description": "کانال کدینو در روبیکا و اپارات ",
+    "link_txt": "بازکردن",
+    "url": "https://rubika.ir/codino_sketch",
+    "dialog_txt": "notification",
+    "dialog_description": "از شما ممنونیم که از کانال روبیکایی کدینو حمایت میکنید \n\nکانال ما رو حتما دنبال کنید ",
+    "codino": "بازکن"
   }
 ]
